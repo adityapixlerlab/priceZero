@@ -1,0 +1,52 @@
+.sign-heading {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 20px;
+  color: #33334f;
+  text-align: center;
+}
+
+.paragraph {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #9999a7;
+  padding: 8px 104px;
+}
+
+.main-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form-box {
+  width: 40vw;
+  height: 40vh;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+.main-div {
+  display: flex;
+}
+.left-hr {
+  height: 0.5px;
+  width: 290px;
+  margin-left: 8px;
+  margin-top: 3px;
+}
+.paragraph-tag {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+.right-hr {
+  height: 0.5px;
+  width: 290px;
+  margin-right: 8px;
+  margin-top: 3px;
+}

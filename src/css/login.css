@@ -1,0 +1,93 @@
+.login-heading {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 20px;
+  color: #33334f;
+  text-align: center;
+}
+
+.paragraph {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #9999a7;
+  padding: 8px 104px;
+}
+.email-lable {
+  font-family: Inter;
+  font-size: 14px;
+  color: #707084;
+  margin: 8px 0px;
+}
+.email-input {
+  width: 545px;
+  background: #ffffff;
+  border: 1px solid #33334f;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 8px;
+}
+.password-input {
+  width: 545px;
+  background: #ffffff;
+  border: 1px solid #33334f;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 8px;
+}
+::placeholder {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #9999a7;
+}
+.password-lable {
+  font-family: Inter;
+  font-size: 14px;
+  margin: 8px 0px;
+  color: #707084;
+}
+.main-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form-box {
+  width: 40vw;
+  height: 40vh;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+.checkbox-lable {
+  margin: 0.5rem;
+  font-family: Inter;
+  font-style: normal;
+  font-size: 13px;
+  color: #33334f;
+}
+
+.forget-data {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 13px;
+  line-height: 20px;
+  float: right;
+  color: #33334f;
+}
+.button {
+  width: 545px;
+  height: 50px;
+  background: #917be7;
+  border-radius: 51px;
+  border: none;
+  font-family: Inter;
+  font-style: normal;
+  font-size: 16px;
+  color: #ffffff;
+}
